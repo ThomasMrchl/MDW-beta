@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <head>
     <title>My Dream Wallet</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" href="logowalletbtc.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="images/logowalletbtc.png">
 
     <script language="Javascript" >
         var msg1 = "-   My Dream Wallet - Start investing in crypto virtualy   -";

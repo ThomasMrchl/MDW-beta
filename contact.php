@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <head>
     <title>My Dream Wallet</title>
-    <link rel="stylesheet" href="stylecontact.css">
-    <link rel="icon" type="image/png" href="logowalletbtc.png">
+    <link rel="stylesheet" href="css/stylecontact.css">
+    <link rel="icon" type="image/png" href="images/logowalletbtc.png">
     <meta name="Description" content="Data films et series" />
 
 </head>
