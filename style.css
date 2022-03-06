@@ -1,0 +1,47 @@
+body{
+    font-family: DejaVu Sans Mono, monospace;
+    background-color: #15172b;
+    padding-top: 1%;
+}
+
+/* Add a black background color to the top navigation */
+  .topnav {
+  overflow: hidden;
+  font-size: 20px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
+
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+  color: #08d;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+  color: white;
+  background-color: #08d;
+  border-radius: 30px;
+  }
+  
+  .topnav a.partielogo {
+     height: 1em;
+     background-color: #08d;
+     border-radius: 30px;
+  }
+  
+  
+  /* Right-aligned section inside the top navigation */
+  .topnav-right {
+  float: right;
+  }
