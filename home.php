@@ -28,13 +28,12 @@
     }
     ?>
     
-
-    <p style="color:white;"> Vous êtes <?php echo $output3; ?> !</p>
     <div class="titre">
         <h1>Découvrez le monde<br> des Cryptomonnaies <?php echo $output1;?>! </h1>
         
         <p>Vérifier votre email : <?php echo $output2; ?></p>
         <p>Premier portefeuille virtuel de cryptomonnaies au monde!<p>
+        <p style="color:white;"> Vous êtes <?php echo $output3; ?> !</p>
         <button class="button-9" role="button" href="login.php" onclick="self.location.href='login.php'">S'inscrire !</button>
     </div>
     
