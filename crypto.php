@@ -7,6 +7,28 @@
     <?php include("menu.php"); ?>
 </head>
 <body>
+
+<!-- input tag -->
+<input id="searchbar" onkeyup="search_crypto()" type="text"
+        name="search" placeholder="Trouver une crypto..">
+      
+    <!-- ordered list -->
+    <ol id='list'>
+        <li class="animals">BITCOIN</li>
+        <li class="animals">ETHEREUM</li>
+        <li class="animals">BINANCE COIN</li>
+        <li class="animals">SOLANA</li>
+        <li class="animals">CHAIN LINK</li>
+        <li class="animals">POLSKA DOT</li>
+        <li class="animals">CARDANO</li>
+        <li class="animals">XRP</li>
+        <li class="animals">AVAX</li>
+        <li class="animals">LUNA</li>
+    </ol>
+      
+    <!-- linking javascript -->
+    <script src="js/search.js"></script>
+
 <div class="container">
   <table class="responsive-table">
     <thead>
