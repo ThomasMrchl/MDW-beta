@@ -14,16 +14,16 @@
       
     <!-- ordered list -->
     <ol id='list'>
-        <li class="animals">BITCOIN</li>
-        <li class="animals">ETHEREUM</li>
-        <li class="animals">BINANCE COIN</li>
-        <li class="animals">SOLANA</li>
-        <li class="animals">CHAIN LINK</li>
-        <li class="animals">POLSKA DOT</li>
-        <li class="animals">CARDANO</li>
-        <li class="animals">XRP</li>
-        <li class="animals">AVAX</li>
-        <li class="animals">LUNA</li>
+        <li class="cryptobar">BITCOIN</li>
+        <li class="cryptobar">ETHEREUM</li>
+        <li class="cryptobar">BINANCE COIN</li>
+        <li class="cryptobar">SOLANA</li>
+        <li class="cryptobar">CHAIN LINK</li>
+        <li class="cryptobar">POLSKA DOT</li>
+        <li class="cryptobar">CARDANO</li>
+        <li class="cryptobar">XRP</li>
+        <li class="cryptobar">AVAX</li>
+        <li class="cryptobar">LUNA</li>
     </ol>
       
     <!-- linking javascript -->

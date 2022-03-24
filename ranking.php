@@ -8,7 +8,9 @@
 </head>
 <body>
     <?php include("menu.php"); ?>
-<div class="container">
+
+
+    <div class="container">
   <table class="responsive-table">
     <thead>
       <tr>
@@ -28,231 +30,45 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td data-title="rang">1</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">2</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">3</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">4</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">5</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">6</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">7</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">8</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">9</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">10</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">11</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">12</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">13</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">14</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
-      <tr>
-        <td data-title="rang">15</td>
-        <td data-title="Nationalité">Pays</td>
-        <td data-title="Valeur">Somme €</td>
-        <td data-title="QBTC">Q</td>
-        <td data-title="QETH">Q</td>
-        <td data-title="QBNB">Q</td>
-        <td data-title="QSOL">Q</td>
-        <td data-title="QLINK">Q</td>
-        <td data-title="QDOT">Q</td>
-        <td data-title="QADA">Q</td>
-        <td data-title="QXRP">Q</td>
-        <td data-title="QAVAX">Q</td>
-        <td data-title="ALUNA">Q</td>
-      </tr>
+
+    <?php
+
+    // connexion à la base de données
+    $db_username = '254480';
+    $db_password = 'Thomas&PierreMDW*';
+    $db_name     = 'mydreamwallet_base';
+    $db_host     = 'mysql-mydreamwallet.alwaysdata.net';
+    $db = mysqli_connect($db_host, $db_username, $db_password,$db_name)
+           or die('could not connect to database');
+    $requete = "SELECT * FROM User ORDER BY id; ";
+    $exec_requete = mysqli_query($db,$requete);
+    $reponse      = mysqli_fetch_array($exec_requete);
+    $count = mysqli_num_rows($exec_requete);
+    for ($j = 0; $j < $count-1; $j++) {
+      $ligne = mysqli_fetch_array($exec_requete);
+      $pseudo = $ligne["pseudo"];
+      $nat = $ligne["natio"];
+    echo"<tr>
+    <td data-title='rang'>".$pseudo."</td>
+    <td data-title='Nationalité'>".$nat."</td>
+    <td data-title='Valeur'>$</td>
+    <td data-title='QBTC'>Q</td>
+    <td data-title='QETH'>Q</td>
+    <td data-title='QBNB'>Q</td>
+    <td data-title='QSOL'>Q</td>
+    <td data-title='QLINK'>Q</td>
+    <td data-title='QDOT'>Q</td>
+    <td data-title='QADA'>Q</td>
+    <td data-title='QXRP'>Q</td>
+    <td data-title='QAVAX'>Q</td>
+    <td data-title='ALUNA'>Q</td>
+    </tr>";
+    }
+
+
+
+
+    ?>
     </tbody>
   </table>
 </div>
